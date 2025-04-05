@@ -26,8 +26,4 @@ I'm Aliawk — a curious coder who loves exploring the world of tech! 🚀
 ### 📫 How to reach me
 - Feel free to send me a DM here on GitHub 😄
 
-### 😄 Pronouns
-- He / Him
-
-
 _Thanks for stopping by! 😊_
