@@ -7,11 +7,13 @@ I like to work on meaningful projects that improve quality of life or makes a di
 Right now I'm learning
 Docker, Kubernetes and crypto analytics.
 
+
 ethereum-fundamentals
 forensic-heuristics
 investigation-methodology
 
 **cases**
+
 utxo-analysis
 bitcoin-tracing
 coinjoin-analysis
