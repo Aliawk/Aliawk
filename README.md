@@ -1,54 +1,31 @@
-Hi, I'm Aliawk 👋
+# Hi, I'm Aliawk 👋
 
-I'm an IT Engineer with a focus on digital infrastructure and cybersecurity.
+IT Engineer focused on infrastructure, cybersecurity and practical problem solving.
 
-I enjoy working on meaningful technical projects that solve real problems, improve quality of life, or make a difference.
+I like working on meaningful projects that solve real problems, improve quality of life, or make a difference.
 
-🔭 What I'm working on
+## Currently learning
 
-I'm currently expanding my practical knowledge in:
+- Docker & Kubernetes
+- Blockchain forensics and crypto analytics
+- Bitcoin transaction tracing
+- Ethereum and token analysis
+- Python for analysis and automation
 
-🐳 Docker & Kubernetes — containers, orchestration and infrastructure
+## Blockchain Forensics Lab
 
-₿ Blockchain Forensics — Bitcoin transaction analysis, UTXO tracing and forensic heuristics
+I'm currently building a practical lab to develop my skills in cryptocurrency investigations and on-chain analysis.
 
-Ξ Ethereum Analysis — EVM transactions, tokens, smart contracts and on-chain tracing
+The project will cover:
 
-🔎 Crypto Analytics & OSINT — transaction tracing, wallet analysis and investigative methodology
+- Bitcoin UTXO analysis and transaction tracing
+- Forensic heuristics and wallet clustering
+- CoinJoin and transaction obfuscation
+- Ethereum and ERC-20 analysis
+- DeFi and cross-chain tracing
+- OSINT and investigative methodology
+- Python tools for blockchain analysis
 
-🐍 Python — building tools for blockchain analysis and automation
+## Tech
 
-🧪 Blockchain Forensics Lab
-
-I'm building a hands-on blockchain forensics lab where I explore cryptocurrency tracing and investigative techniques through practical cases and tools.
-
-Topics
-
-bitcoin-fundamentals utxo-model bitcoin-tracing
-forensic-heuristics wallet-clustering coinjoin-analysis
-ethereum-fundamentals erc20-analysis defi-analysis
-cross-chain-tracing osint investigation-methodology
-
-Cases
-
-utxo-analysis
-bitcoin-tracing
-peel-chain-analysis
-coinjoin-analysis
-ethereum-tracing
-token-analysis
-cross-chain-analysis
-
-Tools
-
-btc-analyzer
-eth-analyzer
-transaction-visualizer
-
-🛠️ Technologies
-
-Python Docker Kubernetes Linux Windows Server PowerShell SQL Git
-
-🎯 Current Goal
-
-Developing practical skills in blockchain forensics and cybersecurity by combining technical analysis, investigative reasoning, automation and documentation.
+Python • Docker • Kubernetes
