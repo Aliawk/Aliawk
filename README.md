@@ -11,6 +11,7 @@ I like working on meaningful projects that solve real problems, improve quality 
 - Bitcoin transaction tracing
 - Ethereum and token analysis
 - Python for analysis and automation
+- RuneLite plugin creation for Oldschool runescape
 
 ## Blockchain Forensics Lab
 
